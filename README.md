@@ -67,7 +67,7 @@ FOLLOW THESE INSTRUCTIONS
 </div>
 
 <div align="center">
-<img src="https://github.com/thedopepirate/extensiongmeet/blob/main/INSTALLEXTENSION/step3.png" >
+<img src="https://github.com/thedopepirate/extensiongmeet/blob/main/step3.png" >
 <p>GO TO C DRIVE WHERE YOU PASTED THE ```extensiongmeet``` FOLDER, SELECT IT</p>
 </div>
 
@@ -98,9 +98,9 @@ https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe (64-BIT)
 
 IF YOU ARE USING WINDOWS 7, THEN install
 
-https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
+https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi (32 bit)
 
-https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
+https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi (64 BIT)
 
 WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADING THE ABOVE SETUP (Very IMPORTANT) https://youtu.be/DKXMUGuGMp4
 
@@ -129,13 +129,17 @@ CLICK ENTER
 THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS (not exact though)
 
 ```pip 20.2.3 from c:\program files\lib\site-packages\pip (python 3.9)```
-SKIP TO STEP 4 IF YOU SEE A SIMILAR OUTPUT
 
-ERROR HANDLING (do not follow this if the above output is already seen on your git bash)
+**SKIP TO STEP 4 IF YOU SEE A SIMILAR OUTPUT**
 
-IF THERE IS AN ERROR, LIKE bash: pip: command not found THEN DO WATCH THIS VIDEO. (skip if the above output is seen)
 
-https://youtu.be/yNJl2t5xPck
+***ERROR HANDLING*** 
+
+
+***IF THERE IS AN ERROR, LIKE bash: pip: command not found THEN DO WATCH THIS VIDEO. (skip if the above output is seen)***
+
+-> https://youtu.be/yNJl2t5xPck
+
 
 GO TO THE FOLDER WHERE PYTHON IS INSTALLED AND OPEN THE FOLDER NAMED SCRIPTS (IF YOU FOLLOWED THE PYTHON INSTALLATION VIDEO, THIS WOULD BE THE LOCATION)
 
@@ -194,7 +198,9 @@ OPEN THE FILE enter.csv IN NOTEPAD
 
 YOU NEED TO ENTER THE MEETING DETAILS LIKE I HAVE SHOWN YOU IN THE THREE EXAMPLES IN FILE enter.csv
 
-FORMAT (date/month/year hour:minute) 24 hrs format
+FORMAT (date/month/year hour:minute:seconds) 24 hrs format
+
+***use comma to seperate the time and links !!!!!! do not leave spaces!!!***
 
 YOU WILL HAVE TO CHANGE THE LINKS AS PER YOUR SCHEDULE
 
@@ -206,15 +212,15 @@ DOUBLE CLICK ON THE FILE main.py
 
 JUST WAIT AND RELAX, MY BOT WILL AUTOMATICALLY JOIN THE MEETING (enter the timings and LINKS correcrly in enter.csv)
 
-SOMETIMES, IF THE TERMINAL WINDOW ABRUPTLY CLOSES YOU WILL HAVE TO FOLLOW THIS VIDEO (https://youtu.be/mrz6Q0-HyKo FROM TIMESTAMP 0:13)
-
-YOU NEED TO OPEN THE FILE main.py ATLEAST A MINUTE BEFORE THE MEETING STARTS.
+YOU NEED TO OPEN THE FILE main.py ATLEAST A MINUTE BEFORE THE time you entered in ```enter.csv``` file to join the meeting.
 
 once the meeting ends, it will join the next meeting AUTOMATICALLY by reading the time in enter.csv
 
 the commands might take some time, do not move your mouse or type when running the bot.
 
 IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS main.py AUTOMATICALLY using task scheduler.
+
+watch this video
 
 THANKS FOR DOWNLOADING MY BOT
 
