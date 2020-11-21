@@ -92,7 +92,7 @@ def sign_in(link):
 
 	
 print("I'm Looking for the timetable")
-print("please wait, i might be slow")
+print("please wait......")
 df = pd.read_csv('C:\gmbot\enter.csv')
 
 while True:
@@ -104,4 +104,4 @@ while True:
 		print(link)
 		sign_in(link)
 		sleep(5)
-		print("you are in")
+		print("LOOKING FOR THE NEXT ONE")
