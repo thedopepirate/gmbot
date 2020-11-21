@@ -58,27 +58,27 @@ FOLLOW THESE INSTRUCTIONS
 
 <div align="center">
 <img src="https://github.com/thedopepirate/extensiongmeet/blob/main/INSTALLEXTENSION/step1.png" >
-<p>Example Execution</p>
+<p>CLICK ON EXTENSIONS</p>
 </div>
 
 <div align="center">
 <img src="https://github.com/thedopepirate/extensiongmeet/blob/main/INSTALLEXTENSION/step2.png" >
-<p>Example Execution</p>
+<p>ENABLE DEVELOPER MODE AND THEN CLICK ON LOAD UNPACKED</p>
 </div>
 
 <div align="center">
 <img src="https://github.com/thedopepirate/extensiongmeet/blob/main/INSTALLEXTENSION/step3.png" >
-<p>Example Execution</p>
+<p>GO TO C DRIVE WHERE YOU PASTED THE ```extensiongmeet``` FOLDER, SELECT IT</p>
 </div>
 
 <div align="center">
 <img src="https://github.com/thedopepirate/extensiongmeet/blob/main/INSTALLEXTENSION/step4.png" >
-<p>Example Execution</p>
+<p>GO TO THE EXTENSION SHORTCUT AND PIN IT</p>
 </div>
 
 <div align="center">
 <img src="https://github.com/thedopepirate/extensiongmeet/blob/main/step5.png" >
-<p>Example Execution</p>
+<p>IT SHOULD LOOK LIKE THIS</p>
 </div>
 
 
