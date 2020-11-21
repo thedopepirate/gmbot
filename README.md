@@ -76,6 +76,10 @@ FOLLOW THESE INSTRUCTIONS
 <p>Example Execution</p>
 </div>
 
+<div align="center">
+<img src="https://github.com/thedopepirate/extensiongmeet/blob/main/step5.png" >
+<p>Example Execution</p>
+</div>
 
 
 **STEP 2**
