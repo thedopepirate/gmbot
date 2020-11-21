@@ -71,11 +71,11 @@ def sign_in(link):
 			print("recording granted")
 			break
 		else: print(".")
-	sleep(5)
-	#leaves the meeting automatically if attendees are below 10 AFTER 45 MINS
+	sleep(1800)
+	#leaves the meeting automatically if attendees are below 10 (CHECKS EVERY 5 MINUTES AFTER THE FIRST 30 MINUTES)
 	while pyautogui.locateOnScreen('C:\gmbot\endd.png'):
 		for i in range (0,9):
-			sleep(600)
+			sleep(300)
 			print("entered for",i)
 			if pyautogui.locateOnScreen('C:\gmbot\endd.png'):
 				if pyautogui.locateOnScreen('C:\gmbot\whtext.png'):
@@ -92,7 +92,7 @@ def sign_in(link):
 
 	
 print("I'm Looking for the timetable")
-
+print("please wait, i might be slow")
 df = pd.read_csv('C:\gmbot\enter.csv')
 
 while True:
