@@ -28,7 +28,7 @@ PRESS ENTER
 
 COPY AND PASTE THE CODE BELOW
 
-``` clone https://github.com/thedopepirate/gmbot.git```
+```git clone https://github.com/thedopepirate/gmbot.git```
 
 PRESS ENTER
 
