@@ -234,7 +234,8 @@ the commands might take some time, do not move your mouse or type when running t
 
 IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS main.py AUTOMATICALLY using task scheduler.
 
-watch this video
+watch this video ( instead of z.py use main.py )
+https://youtu.be/CBk-PZSvlEY
 
 THANKS FOR DOWNLOADING MY BOT
 
