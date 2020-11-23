@@ -232,9 +232,9 @@ once the meeting ends, it will join the next meeting AUTOMATICALLY by reading th
 
 the commands might take some time, do not move your mouse or type when running the bot.
 
-IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS main.py AUTOMATICALLY using task scheduler.
+IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS main.py AUTOMATICALLY at a certain time (you will have to turn your pc on and login tho)
 
-watch this video ( instead of z.py use main.py )
+watch this video ( instead use the main.py in your C drive 'gmbot' folder )
 https://youtu.be/CBk-PZSvlEY
 
 THANKS FOR DOWNLOADING MY BOT
