@@ -201,7 +201,7 @@ AFTER THE INSTALLATION IS DONE TYPE FOLLOWED BY ENTER KEY
 
 AFTER THE INSTALLATION IS DONE TYPE FOLLOWED BY ENTER KEY
 
-```pip install opencv-python```
+```pip install --upgrade numpy==1.19.3 ```
 
 
 **STEP 5**
